@@ -6,8 +6,6 @@
 
 package com.baesystems.cmo.simpleapp;
 
-import com.baesystems.cmo.simpleapp.SecretGenerator;
-import com.baesystems.cmo.simpleapp.Game;
 import com.baesystems.cmo.simpleapp.Game.GuessResult;
 import org.easymock.EasyMock;
 import org.junit.Before;
