@@ -4,9 +4,11 @@
  * http://www.thoughtmerge.net
  */
 
-package com.baesystems.cmo.simpleapp;
+package simpleapp;
 
-import com.baesystems.cmo.simpleapp.Game.GuessResult;
+import simpleapp.Game;
+import simpleapp.SecretGenerator;
+import simpleapp.Game.GuessResult;
 import org.easymock.EasyMock;
 import org.junit.Before;
 import org.junit.Test;

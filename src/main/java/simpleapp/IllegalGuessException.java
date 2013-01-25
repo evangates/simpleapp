@@ -1,4 +1,4 @@
-package com.baesystems.cmo.simpleapp;
+package simpleapp;
 
 /**
  * Exception thrown when an illegal guess is made, such as not having

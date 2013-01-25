@@ -10,7 +10,7 @@
   <name>simpleapp</name>
   
   <properties>
-    <main.class>com.baesystems.cmo.simpleapp.SimpleApp</main.class>
+    <main.class>simpleapp.SimpleApp</main.class>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   

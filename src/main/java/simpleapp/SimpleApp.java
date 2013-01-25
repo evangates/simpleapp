@@ -1,6 +1,6 @@
-package com.baesystems.cmo.simpleapp;
+package simpleapp;
 
-import com.baesystems.cmo.simpleapp.Game.GuessResult;
+import simpleapp.Game.GuessResult;
 import java.util.Scanner;
 
 public class SimpleApp {

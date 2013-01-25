@@ -1,4 +1,4 @@
-package com.baesystems.cmo.simpleapp;
+package simpleapp;
 
 import java.util.Random;
 
